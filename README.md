@@ -1,16 +1,26 @@
-# skills
+# Your skills page
 
-A new Flutter project.
+Страница "Твои навыки" для мобильного приложения онлайн школы.
 
-## Getting Started
+<div style="display: flex;">
+    <img src="screenshots/1.jpg" style="width: 25%;" />
+    <img src="screenshots/2.jpg" style="width: 25%;" />
+    <img src="screenshots/3.jpg" style="width: 25%;" />
+</div>
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Описание:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Реализованы
+- интерфейс страницы "Твои навыки" на основе макета Figma;
+- виджет радарной диаграммы для оценки навыков (адаптирован пакет kg_charts).
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## Платформа:
+
+Android
+
+
+## Скринкаст:
+
+https://youtube.com/shorts/QPAxJn48DMw?si=d9Mkd2pu3MLO2nhU
